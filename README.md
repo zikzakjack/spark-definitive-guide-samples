@@ -7,3 +7,4 @@
 # Attributions
 
 1. Spark: The Definitive Guide by Bill Chambers and Matei Zaharia (O’Reilly). Copyright 2018 Databricks, Inc., 978-1-491-91221-8
+2. Spark in Action, Second Edition by Jean-Georges Perrin
